@@ -96,4 +96,5 @@ int main()
 
 
 The outcome
+[!xiaolaba_Logitech_C270_marco_mod_IMG_20190324_172511.jpg](xiaolaba_Logitech_C270_marco_mod_IMG_20190324_172511.jpg)
 
